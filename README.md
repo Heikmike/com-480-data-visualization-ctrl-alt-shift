@@ -29,6 +29,17 @@ Please, fill the following sections about your project.
 > - What am I trying to show with my visualization?
 > - Think of an overview for the project, your motivation, and the target audience.
 
+#### Idea
+
+> Development of the video game industry
+> - The Console Wars: PlayStation vs. PC vs. Nintendo. Which platform ruled each decade ? How do regional preferences differ (e.g., Japan loves Nintendo, PC dominates in Europe)?
+> - The Franchise Effect: Sequels vs. New IPs. Do sequels (FIFA, Call of Duty) always outsell original games? Which franchises have the steepest sales growth/decline over time? Are new IPs (Elden Ring, Cyberpunk 2077) riskier but more innovative?
+> - The Globalization of Gaming. How games went from regional hits (Pok´emon in Japan) to global phenomena. Which games have the most balanced sales across NA, EU, JP, and Other regions ? Are culturally specific games (e.g., Yakuza) gaining global traction ?
+> - Motivation: Show and explore the technological, cultural and creative development of the gaming industry
+> - Target audience: 
+
+
+
 ### Exploratory Data Analysis
 
 > Pre-processing of the data set you chose
