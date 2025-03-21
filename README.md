@@ -2,7 +2,7 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| Osvaldo | |
+| Hernandez Cuellar Osvaldo | 364897 |
 | Mikael | |
 | Heikel | |
 
@@ -41,8 +41,7 @@ We will compare the emissions of various foods per weight, calorie, and protein 
 
 ### Exploratory Data Analysis
 
-> Pre-processing of the data set you chose
-> - Show some basic statistics and get insights about the data
+It can be found in the directory [milestone_1](/milestone_1), in the Jupiter Notebook called [Exploratory_data_analysis](/milestone_1/Exploratory_data_analysis.ipynb).
 
 ### Related work (Osvaldo/Mikael)
 
